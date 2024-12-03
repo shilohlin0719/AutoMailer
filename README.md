@@ -18,8 +18,8 @@ This project integrates **LINE Messaging API** with **Google Apps Script** to se
    - Obtain your **Channel Access Token**.
    - Replace the `MY_TOKEN` placeholder in `config.gs` with your Channel Access Token.
 
-   ![LINE Messaging API Setup](![Image Description](https://github.com/shilohlin0719/AutoMailer/raw/main/images/MY_TOKEN.png)
-)
+   ![LINE Messaging API Setup](https://github.com/shilohlin0719/AutoMailer/raw/main/images/MY_TOKEN.png)
+
 
 ### 3. Configure Google Sheets
 
