@@ -88,7 +88,7 @@ Once the bot's rich menu and delay settings are configured:
 
 ## Acknowledgements
 
-- Special thanks to **Yu** ([@LiuYuRungGitHub](https://github.com/LiuYuRung)) for her contribution to the `reply.gs`, `screenshot.gs`, and `settime.gs` file. Her work on the response handling logic has been invaluable!
+- Special thanks to **Yu** ([@LiuYuRungGitHub](https://github.com/LiuYuRung)) for her contribution to the `reply.gs`, `screenshot.gs`, `geturl.gs` and `settime.gs` files. Her work on the response handling logic has been invaluable!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
